@@ -1,0 +1,66 @@
+{
+    "Conclusion": {
+        "TotalLength": 435956.6025582396,
+        "MinLength": 29064.493046890333,
+        "MaxLength": 74496.52123588164,
+        "EquilibriumRate": 0.3901456412288319
+    },
+    "Details": [
+        {
+            "PortNum": 0,
+            "RoomId": 209685,
+            "Length": 56575.459996905665,
+            "RoutingPipeLength": 5513.762033810191,
+            "CoverPipeLength": 51061.697963095474
+        },
+        {
+            "PortNum": 1,
+            "RoomId": 209685,
+            "Length": 68427.21031012497,
+            "RoutingPipeLength": 13524.146188033828,
+            "CoverPipeLength": 54903.06412209114
+        },
+        {
+            "PortNum": 2,
+            "RoomId": 209691,
+            "Length": 52435.46590813463,
+            "RoutingPipeLength": 12054.762033811981,
+            "CoverPipeLength": 40380.70387432265
+        },
+        {
+            "PortNum": 3,
+            "RoomId": 209694,
+            "Length": 48274.87216336277,
+            "RoutingPipeLength": 24827.251537168013,
+            "CoverPipeLength": 23447.62062619476
+        },
+        {
+            "PortNum": 4,
+            "RoomId": 209697,
+            "Length": 41208.673659482796,
+            "RoutingPipeLength": 41208.673659482796,
+            "CoverPipeLength": 0
+        },
+        {
+            "PortNum": 5,
+            "RoomId": 209700,
+            "Length": 65473.90623745684,
+            "RoutingPipeLength": 28561.354282228094,
+            "CoverPipeLength": 36912.551955228744
+        },
+        {
+            "PortNum": 6,
+            "RoomId": 209703,
+            "Length": 74496.52123588164,
+            "RoutingPipeLength": 24204.210612929077,
+            "CoverPipeLength": 50292.31062295256
+        },
+        {
+            "PortNum": 7,
+            "RoomId": 209688,
+            "Length": 29064.493046890333,
+            "RoutingPipeLength": 3303.574969832225,
+            "CoverPipeLength": 25760.918077058108
+        }
+    ]
+}

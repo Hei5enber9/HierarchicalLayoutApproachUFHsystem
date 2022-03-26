@@ -1,0 +1,66 @@
+{
+    "Conclusion": {
+        "TotalLength": 445021.92785897205,
+        "MinLength": 24679.577055684615,
+        "MaxLength": 81496.40182985461,
+        "EquilibriumRate": 0.3028302661411946
+    },
+    "Details": [
+        {
+            "PortNum": 0,
+            "RoomId": 209685,
+            "Length": 81496.40182985461,
+            "RoutingPipeLength": 27426.072766655467,
+            "CoverPipeLength": 54070.329063199155
+        },
+        {
+            "PortNum": 1,
+            "RoomId": 209685,
+            "Length": 61069.66221869855,
+            "RoutingPipeLength": 11689.254890842181,
+            "CoverPipeLength": 49380.40732785637
+        },
+        {
+            "PortNum": 2,
+            "RoomId": 209688,
+            "Length": 67990.48180415331,
+            "RoutingPipeLength": 29438.84834079798,
+            "CoverPipeLength": 38551.633463355334
+        },
+        {
+            "PortNum": 3,
+            "RoomId": 209691,
+            "Length": 60153.22680952716,
+            "RoutingPipeLength": 19994.52276051584,
+            "CoverPipeLength": 40158.704049011314
+        },
+        {
+            "PortNum": 4,
+            "RoomId": 209694,
+            "Length": 49108.57476233869,
+            "RoutingPipeLength": 23360.58762652301,
+            "CoverPipeLength": 25747.98713581568
+        },
+        {
+            "PortNum": 5,
+            "RoomId": 209697,
+            "Length": 24679.577055684615,
+            "RoutingPipeLength": 24679.577055684615,
+            "CoverPipeLength": 0
+        },
+        {
+            "PortNum": 6,
+            "RoomId": 209703,
+            "Length": 66381.34301785454,
+            "RoutingPipeLength": 14069.400054044821,
+            "CoverPipeLength": 52311.94296380971
+        },
+        {
+            "PortNum": 7,
+            "RoomId": 209700,
+            "Length": 34142.66036086052,
+            "RoutingPipeLength": 3303.5747562856845,
+            "CoverPipeLength": 30839.085604574837
+        }
+    ]
+}

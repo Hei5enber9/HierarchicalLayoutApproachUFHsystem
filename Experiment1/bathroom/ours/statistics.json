@@ -1,0 +1,66 @@
+{
+    "Conclusion": {
+        "TotalLength": 401848.38556226,
+        "MinLength": 17944.823425272512,
+        "MaxLength": 73638.72208732176,
+        "EquilibriumRate": 0.24368732803365742
+    },
+    "Details": [
+        {
+            "PortNum": 0,
+            "RoomId": 209685,
+            "Length": 73638.72208732176,
+            "RoutingPipeLength": 19568.393024122608,
+            "CoverPipeLength": 54070.329063199155
+        },
+        {
+            "PortNum": 1,
+            "RoomId": 209685,
+            "Length": 58059.37144316379,
+            "RoutingPipeLength": 8311.76627571746,
+            "CoverPipeLength": 49747.60516744633
+        },
+        {
+            "PortNum": 2,
+            "RoomId": 209688,
+            "Length": 68009.18440787043,
+            "RoutingPipeLength": 29457.550944515096,
+            "CoverPipeLength": 38551.633463355334
+        },
+        {
+            "PortNum": 3,
+            "RoomId": 209691,
+            "Length": 29099.093048269893,
+            "RoutingPipeLength": 29099.093048269893,
+            "CoverPipeLength": 0
+        },
+        {
+            "PortNum": 4,
+            "RoomId": 209694,
+            "Length": 41250.895019805845,
+            "RoutingPipeLength": 15502.90788399016,
+            "CoverPipeLength": 25747.98713581568
+        },
+        {
+            "PortNum": 5,
+            "RoomId": 209700,
+            "Length": 47446.25050898407,
+            "RoutingPipeLength": 9370.960282147022,
+            "CoverPipeLength": 38075.290226837045
+        },
+        {
+            "PortNum": 6,
+            "RoomId": 209703,
+            "Length": 66400.04562157165,
+            "RoutingPipeLength": 14088.102657761945,
+            "CoverPipeLength": 52311.94296380971
+        },
+        {
+            "PortNum": 7,
+            "RoomId": 209697,
+            "Length": 17944.823425272512,
+            "RoutingPipeLength": 3308.385694273498,
+            "CoverPipeLength": 14636.437730999014
+        }
+    ]
+}

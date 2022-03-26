@@ -1,0 +1,80 @@
+{
+    "Conclusion": {
+        "TotalLength": 1132032.3142883289,
+        "MinLength": 39808.040801962365,
+        "MaxLength": 152117.79850397806,
+        "EquilibriumRate": 0.2616921963994985
+    },
+    "Details": [
+        {
+            "PortNum": 0,
+            "RoomId": 346227,
+            "Length": 140154.26141123762,
+            "RoutingPipeLength": 44024.25206408902,
+            "CoverPipeLength": 96130.0093471486
+        },
+        {
+            "PortNum": 1,
+            "RoomId": 348039,
+            "Length": 39808.040801962365,
+            "RoutingPipeLength": 9708.252442086872,
+            "CoverPipeLength": 30099.788359875492
+        },
+        {
+            "PortNum": 2,
+            "RoomId": 348039,
+            "Length": 72382.7005286145,
+            "RoutingPipeLength": 19046.845411738785,
+            "CoverPipeLength": 53335.85511687571
+        },
+        {
+            "PortNum": 3,
+            "RoomId": 362522,
+            "Length": 148150.75811532652,
+            "RoutingPipeLength": 54045.75137874913,
+            "CoverPipeLength": 94105.00673657739
+        },
+        {
+            "PortNum": 4,
+            "RoomId": 362522,
+            "Length": 143245.60961175905,
+            "RoutingPipeLength": 49290.18107496969,
+            "CoverPipeLength": 93955.42853678936
+        },
+        {
+            "PortNum": 5,
+            "RoomId": 362522,
+            "Length": 109590.61714703728,
+            "RoutingPipeLength": 29984.256694337542,
+            "CoverPipeLength": 79606.36045269974
+        },
+        {
+            "PortNum": 6,
+            "RoomId": 362522,
+            "Length": 152117.79850397806,
+            "RoutingPipeLength": 60671.81037358932,
+            "CoverPipeLength": 91445.98813038874
+        },
+        {
+            "PortNum": 7,
+            "RoomId": 362522,
+            "Length": 104211.43355131094,
+            "RoutingPipeLength": 28308.499313897897,
+            "CoverPipeLength": 75902.93423741304
+        },
+        {
+            "PortNum": 8,
+            "RoomId": 362525,
+            "Length": 109559.01996137429,
+            "RoutingPipeLength": 58019.251370582664,
+            "CoverPipeLength": 51539.76859079163
+        },
+        {
+            "PortNum": 9,
+            "RoomId": 362525,
+            "Length": 112812.0746557282,
+            "RoutingPipeLength": 62660.31355472555,
+            "CoverPipeLength": 50151.761101002645
+        }
+    ]
+}

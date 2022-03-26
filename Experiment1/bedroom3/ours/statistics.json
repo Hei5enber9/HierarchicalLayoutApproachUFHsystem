@@ -1,0 +1,66 @@
+{
+    "Conclusion": {
+        "TotalLength": 470833.84227225673,
+        "MinLength": 30649.651030821435,
+        "MaxLength": 86789.25689783572,
+        "EquilibriumRate": 0.3531502875626736
+    },
+    "Details": [
+        {
+            "PortNum": 0,
+            "RoomId": 209685,
+            "Length": 86789.25689783572,
+            "RoutingPipeLength": 32718.927834636514,
+            "CoverPipeLength": 54070.3290631992
+        },
+        {
+            "PortNum": 1,
+            "RoomId": 209685,
+            "Length": 64675.227613287374,
+            "RoutingPipeLength": 15124.188631114543,
+            "CoverPipeLength": 49551.03898217283
+        },
+        {
+            "PortNum": 2,
+            "RoomId": 209688,
+            "Length": 69126.26973429017,
+            "RoutingPipeLength": 30574.636270934825,
+            "CoverPipeLength": 38551.633463355334
+        },
+        {
+            "PortNum": 3,
+            "RoomId": 209691,
+            "Length": 61329.014739664,
+            "RoutingPipeLength": 21170.31069065269,
+            "CoverPipeLength": 40158.704049011314
+        },
+        {
+            "PortNum": 4,
+            "RoomId": 209694,
+            "Length": 55038.64873747552,
+            "RoutingPipeLength": 29290.66160165984,
+            "CoverPipeLength": 25747.98713581568
+        },
+        {
+            "PortNum": 5,
+            "RoomId": 209697,
+            "Length": 30649.651030821435,
+            "RoutingPipeLength": 30649.651030821435,
+            "CoverPipeLength": 0
+        },
+        {
+            "PortNum": 6,
+            "RoomId": 209700,
+            "Length": 55734.8837224467,
+            "RoutingPipeLength": 17642.33165356673,
+            "CoverPipeLength": 38092.55206887997
+        },
+        {
+            "PortNum": 7,
+            "RoomId": 209703,
+            "Length": 47490.88979643583,
+            "RoutingPipeLength": 3303.5746101826535,
+            "CoverPipeLength": 44187.31518625318
+        }
+    ]
+}

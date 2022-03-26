@@ -1,0 +1,35 @@
+# encoding: utf-8
+# 2020 R2
+SetScriptVersion(Version="20.2.221")
+system1 = GetSystem(Name="SYS")
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+favorites1 = EngData.LoadFavoriteItems()
+library1 = EngData.OpenLibrary(
+    Name="General Materials",
+    Source="General_Materials.xml")
+engineeringData1 = system1.GetContainer(ComponentName="Engineering Data")
+material1 = engineeringData1.GetMaterial(Name="HNT")
+matlProp1 = material1.GetProperty(Name="Thermal Conductivity")
+matlProp1.SetVariableProperty(
+    VariableName="Thermal Conductivity",
+    Property="Unit",
+    Value="W m^-1 K^-1")
+matlProp1.SetData(
+    Variables=["Thermal Conductivity"],
+    Values=[["1.28 [W m^-1 K^-1]"]])
+matlProp1.SetVariableProperty(
+    VariableName="Thermal Conductivity",
+    Property="Unit",
+    Value="W m^-1 C^-1")
+matlProp1.SetData(
+    Variables=["Thermal Conductivity"],
+    Values=[["1.28 [W m^-1 C^-1]"]])
+matlProp1.SetVariableProperty(
+    VariableName="Thermal Conductivity",
+    Property="Unit",
+    Value="W m^-1 K^-1")
+matlProp1.SetData(
+    Variables=["Thermal Conductivity"],
+    Values=[["1.28 [W m^-1 K^-1]"]])
+Save(Overwrite=True)
