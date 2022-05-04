@@ -2,7 +2,7 @@
 ## **Supplementary Materials**
 
 
-## Experiment 1:
+## Simulation 1: Small-Scale House
 
 - house1.rvt: Revit file.
 
@@ -16,10 +16,10 @@
 
 &emsp;&emsp;&emsp; - .png and .dwg files for layouts and the corresponding heating maps.
 
-## Experiment 2:
+## 3.2. Simulation 2: Large-Scale House
 The folder structure is similar to Experiment 1.
 
-## Experiment 3:
+## Simulation 3: Flexible Spacing
 - kitchen/delta_1: .png files when $\delta_1$ = 50, 100, 150, 200, 250, 300, 350, or 400.
 - kitchen/delta_2: .png files when $\delta_2$ = 100, 150, 200, 250, 300, 350, 400, 450, or 500.
-- kitchen/delta_3: .png files when $\delta_3$ = 10, 20, or 30.
+- kitchen/delta_3: .png files when $\delta_3$ = 10, 20, 30, or 40.
