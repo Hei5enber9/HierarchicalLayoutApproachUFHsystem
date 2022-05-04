@@ -17,7 +17,7 @@
 &emsp;&emsp;&emsp; - .png and .dwg files for layouts and the corresponding heating maps.
 
 ## 3.2. Simulation 2: Large-Scale House
-The folder structure is similar to Experiment 1.
+The folder structure is similar to Simulation 1.
 
 ## Simulation 3: Flexible Spacing
 - kitchen/delta_1: .png files when $\delta_1$ = 50, 100, 150, 200, 250, 300, 350, or 400.
