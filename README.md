@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp; - .png and .dwg files for layouts and the corresponding heating maps.
 
-## 3.2. Simulation 2: Large-Scale House
+## Simulation 2: Large-Scale House
 The folder structure is similar to Simulation 1.
 
 ## Simulation 3: Flexible Spacing
